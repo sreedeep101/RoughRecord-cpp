@@ -17,5 +17,14 @@
      Create 3 Book objects and calculate the Total cost to be paid for each purchase.
 
                 [answer @ 𝐏𝐫𝐨𝐠_𝟎𝟐.𝐜𝐩𝐩 file]
+  
+  3. Write a program to create a Rectangle class with two private data members: length and width. 
+     Create a default constructor that initialises both members to 0 and a parameterized constructor. 
+     Create two different objects of class Rectangle using these different types of constructors and display 
+     their values using a member function. Write a destructor that prints a message when an object is 
+     destroyed.
+
+                [answer @ 𝐏𝐫𝐨𝐠_𝟎𝟑.𝐜𝐩𝐩 file]
+                
 </pre>
 
