@@ -25,6 +25,10 @@
      destroyed.
 
                 [answer @ 𝐏𝐫𝐨𝐠_𝟎𝟑.𝐜𝐩𝐩 file]
+
+  4. Write a C++ program to find the area of circle, square, rectangle and triangle using inline functions
+
+                [answer @ 𝐏𝐫𝐨𝐠_𝟎4.𝐜𝐩𝐩 file]
                 
 </pre>
 
