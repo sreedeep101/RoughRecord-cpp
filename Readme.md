@@ -34,6 +34,13 @@
 
                 [answer @ 𝐏𝐫𝐨𝐠_𝟎5.𝐜𝐩𝐩 file]
 
+  6. Write a C++ program to implement a telephone bill class with Name, Address, Tel. No., No. of calls 
+     as data members. Compute the amount to be paid if the charges per call is Rs. 2/-. using friend 
+     function
+
+                [answer @ 𝐏𝐫𝐨𝐠_𝟎𝟔.𝐜𝐩𝐩 file]
+
+  
   
 </pre>
 
