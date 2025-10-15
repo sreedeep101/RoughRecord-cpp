@@ -40,7 +40,13 @@
 
                 [answer @ 𝐏𝐫𝐨𝐠_𝟎𝟔.𝐜𝐩𝐩 file]
 
-  
+  7. Write a program to define a class Time having private members hours, minutes, and seconds. 
+     Write member functions
+       1. To input values to data members
+       2. To display Time in Hour:minute: second format. 3.
+       3. To find the sum of two Time objects using a friend function.
+
+                [answer @ 𝐏𝐫𝐨𝐠_𝟎𝟕.𝐜𝐩𝐩 file]
   
 </pre>
 
