@@ -77,7 +77,7 @@
   
   12. Write a c++ program to perform multiple inheritance
 
-<img src="" alt="question" />
+<img src="./Screenshot from 2025-10-17 14-10-38.png" alt="question" />
 
                 [answer @ 𝐏𝐫𝐨𝐠_12.𝐜𝐩𝐩 file]
   
