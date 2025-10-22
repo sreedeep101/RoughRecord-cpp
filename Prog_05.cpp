@@ -5,16 +5,16 @@ using namespace std;
 class areacalc{
     double pi=3.14159265358979323846;
     public: 
-    inline double area(double radius){
+    double area(double radius){
         return pi*radius*radius;
     }
-    inline double area(float side){
+    float area(float side){
         return side*side;
     }
-    inline double area(double length, double width){
+    double area(double length, double width){
         return length*width;
     }
-    inline double area(float base, float height){
+    float area(float base, float height){
         return 0.5*base*height;
     }
 };
